@@ -101,30 +101,6 @@ hr  {
     }
 }
 
-.loader {
-    position:fixed;
-    z-index:10000;
-    top:0;
-    height:100%;
-    width:100%;;
-    background-color:  #111;
-    text-align:center;
-}
-
-.loader i {
-    margin-top:20%;
-    -webkit-animation: rotation 2s ease-in-out infinite;
-    -moz-animation: rotation 2s ease-in-out infinite;
-    animation: rotation 2s ease-in-out infinite;
-}
-
-.loader p {
-    text-align: center;
-    -webkit-animation: opacity 1s ease-in-out infinite alternate;
-    -moz-animation: opacity 1s ease-in-out infinite alternate;
-    animation: opacity 1s ease-in-out infinite alternate;
-}
-
 /*  Left Nav Styles */
 
 .small-nav  {
