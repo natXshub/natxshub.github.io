@@ -1,32 +1,26 @@
 var initInfo = function(){
 
     //  Populating Header
-    var name = "Tatparya Shankar";
-    var tag = "Engineer | Programmer | Designer";
+    var name = "Shubham Prakash";
+    var tag = "Engineer | Developer | Designer";
 
     //$(".brand-heading").append( name );
     //$(".intro-text").append( tag );
 
-    var aboutMe = "I am Tatparya Shankar, currently pursuing an \
-    undergraduate degree in the field of Computer Engineering \
-    from Purdue University. A very passionate and quick learner \
-    with a strong base of object oriented programming. I am very \
-    passionate about machine learning, cyber security, \
-    artificial intelligence and web development. I am seeking a challenging \
-    work environment and a position of responsibility that would \
-    allow me to utilize and further refine my technical and \
-    interpersonal skills and also enrich my knowledge.";
+    var aboutMe = "My name is Shubham Prakash, and I'm an Android and Full Stack Web developer. Currently \
+    pursuing an undergraduate course in the field of Computer Science & Engineering.";
 
     $("#about-text").append( aboutMe );
 
 }
 
 /*
-    PROJECTS:
+    Current Projects for 2017:
 
-    1. Steganography
-    2. Graphing
-    3. Twitter Connections
-    4. BST yelp
-    5. Arduino Game
+    1. CODING
+    2. ONLINE COURSES
+    3. MMA TRAINING
+    4. RASPBERRY PI 3
+    5. APPS & GAMES
+    6. PERSONAL WEBSITE
 */
