@@ -174,7 +174,7 @@ hr  {
     -webkit-box-shadow: 0px -2px 20px -1px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px -2px 20px -1px rgba(0,0,0,0.75);
     box-shadow: 0px -2px 20px -1px rgba(0,0,0,0.75);
-    background-color: rgba(8, 117, 189, 0.80);
+    background-color: #ffffff;
 }
 
 .jumbotron-alt h1, .jumbotron-alt h3,.jumbotron-alt p,.jumbotron-alt li, .jumbotron-alt i {
