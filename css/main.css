@@ -8,7 +8,7 @@
 .background {
     height:     100%;
     width:     100%;
-    position: fixed;
+    position: relative;
     z-index:-100;
     background: url(../img/cover.jpg) left fixed;
 
@@ -107,7 +107,7 @@ hr  {
 }
 
 .loader {
-    position:fixed;
+    position: relative;
     z-index:10000;
     top:0;
     height:100%;
@@ -134,7 +134,7 @@ hr  {
 
 .small-nav  {
     display:    block;
-    position: fixed;
+    position: relative;
     width:  4%;
     padding-left:1%;
     top: 35%;
